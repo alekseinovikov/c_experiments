@@ -1,3 +1,8 @@
-/.vscode
+# Build outputs
 /hello
-/main.dSYM
+
+# Debug symbols (macOS)
+/main.dSYM/
+
+# Editor/OS noise
+.DS_Store
